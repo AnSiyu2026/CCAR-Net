@@ -2,8 +2,9 @@
 Official repository of Constraining impact flux of Late Heavy Bombardment through intelligent predicting the lunar-wide crater ages
 ## Overview
 <p align="center">
-  <img src="./assets/abstract.png" width="700">
+  <img src="./assets/abstract.png">
 </p>
+
 ## Predict 
 The code in predict.py uses the trained CCAR-Net weights to perform age regression prediction on craters in the Robbins crater database.
 
